@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MHD-GDev
-- 👀 I’m interested in Game Development and AI
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++ and OpenGL
 - 📫 How to reach me : mhdworking1@gmail.com
 
